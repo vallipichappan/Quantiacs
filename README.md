@@ -4,4 +4,4 @@ Our objective was to identify an algorithm that could rightly evaluate and pick 
 
 For this task, we explored several types of approaches that involve: technical indicators, macroeconomic indicators, time series forecasting and machine learning. The notebooks in this repo correspond to this. As these groups of approaches are different from each other, we prioritised experimenting with those that were commonly used in the industry, as well as those that had high sharpe ratios in our initial stage of experimentation. We also tried combining methods together like time series approaches with technical indicators. 
 
-The Futures data and macroeconomics data have been obtained from Quantiacs Toolbox: https://quantiacs.com/documentation/en/user_guide/data.html#futures
+The Futures data and Macroeconomics data have been obtained from Quantiacs Toolbox: https://quantiacs.com/documentation/en/user_guide/data.html#futures
